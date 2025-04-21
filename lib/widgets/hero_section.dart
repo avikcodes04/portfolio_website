@@ -79,7 +79,7 @@ class HeroSection extends StatelessWidget {
                       ),
                       const SizedBox(height: 16),
                       Text(
-                        "based in Kolkata,India",
+                        "based in Sobabazzaaar,India",
                         style:
                             Theme.of(context).textTheme.headlineLarge?.copyWith(
                                   fontSize: 48,
